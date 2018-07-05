@@ -3,6 +3,10 @@ Created on May 17, 2018
 
 @author: aranjan
 '''
-a={1,3,12}
-for i in a:
-    print(i)
+a=2
+b=12
+a=a+b
+b=a-b
+a=a-b
+print(a)
+print(b)

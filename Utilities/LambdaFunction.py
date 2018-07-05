@@ -3,5 +3,6 @@ Created on May 19, 2018
 
 @author: aranjan
 '''
-class BlankClass:
-    pass
+annFunction=lambda x,y:x+y
+print(annFunction(2,7))
+

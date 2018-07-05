@@ -3,5 +3,5 @@ Created on May 19, 2018
 
 @author: aranjan
 '''
-class BlankClass:
-    pass
+import random
+print(random.randint(100,500))
